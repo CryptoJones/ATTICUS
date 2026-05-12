@@ -1,1 +1,1 @@
-# ATTICUS — Automated Trial and Legal Intelligence for Criminal Defense Use Cases and Support
+# ATTICUS — Advocacy, Trial, Testimony, Innocence, Case, Unified Scout

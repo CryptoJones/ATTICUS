@@ -1,4 +1,4 @@
-# ATTICUS — Advanced Trial and Tactical Intelligence for the Criminally Underserved and Suspected
+# ATTICUS — Advocacy, Trial, Testimony, Innocence, Case, Unified Scout
 
 **An Open-Source Model Trained for Public Defenders**
 
