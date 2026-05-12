@@ -13,6 +13,17 @@
 python3 assets/banner.py
 ```
 
+## Supporters
+
+ATTICUS is community-funded. Thank you to everyone who has contributed to keeping this project open and free.
+
+|| Donor | Amount | Note |
+||---|---|---|
+|| Ronin 48, LLC | N/A | Founding donor |
+|| Joe Sixpack (anonymous) | $200 | Founding donor |
+
+*Want to support ATTICUS? Reach out to the maintainers.*
+
 ---
 
 ## Overview
