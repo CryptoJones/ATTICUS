@@ -1,4 +1,4 @@
-# ATTICUS — Automated Trial and Legal Intelligence for Criminal Defense Use Cases and Support
+# ATTICUS — Advanced Trial and Tactical Intelligence for the Criminally Underserved and Suspected
 
 **An Open-Source Model Trained for Public Defenders**
 
