@@ -15,7 +15,7 @@ Mirrors SELMA's versioning:
 ## [v0.1.0-dev] — In Development (Started 2026-05-12)
 
 **Status:** 🚧 Scaffolding in progress
-**Base model:** `meta-llama/Llama-3.1-70B-Instruct` (planned)
+**Base model:** `meta-llama/Llama-3.3-70B-Instruct` (planned)
 **Type:** Prompt-engineered baseline (pre-fine-tune)
 
 ### Added

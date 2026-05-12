@@ -68,7 +68,7 @@ the hands of the public defender.
 
 ## Architecture
 
-- **Base Model:** [Meta Llama 3.1 70B Instruct](https://huggingface.co/meta-llama/Llama-3.1-70B-Instruct) (Llama 3.1 Community License)
+- **Base Model:** [Meta Llama 3.3 70B Instruct](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct) (Llama 3.1 Community License)
 - **Fine-tuning Method:** QLoRA (4-bit quantization with Low-Rank Adaptation)
 - **Context Window:** 128K tokens (native)
 - **Quantization:** NF4 double quantization via bitsandbytes
