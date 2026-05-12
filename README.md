@@ -22,10 +22,10 @@ ATTICUS is community-funded. Every contribution — great or small — keeps thi
 open, and in the hands of the people it is meant to serve. Public defenders are chronically
 under-resourced. ATTICUS exists to change that.
 
-|| Donor | Amount | Note |
-||---|---|---|
-|| Ronin 48, LLC | N/A | Founding donor |
-|| Joe Sixpack (anonymous) | $200 | Founding donor |
+| Donor | Amount | Note |
+|---|---|---|
+| Ronin 48, LLC | N/A | Founding donor |
+| Joe Sixpack (anonymous) | $200 | Founding donor |
 
 *Want to support ATTICUS? Reach out to the maintainers.*
 
