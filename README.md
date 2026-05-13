@@ -261,3 +261,7 @@ especially encouraged to contribute.
 
 **Base Model Weights:** Meta Llama 3.1 Community License. Fine-tuned adapter weights and
 all original ATTICUS contributions remain Apache 2.0.
+
+---
+
+Proudly Made in Nebraska. Go Big Red!
