@@ -264,4 +264,4 @@ all original ATTICUS contributions remain Apache 2.0.
 
 ---
 
-Proudly Made in Nebraska. Go Big Red!
+Proudly Made in Nebraska. Go Big Red! 🌽
