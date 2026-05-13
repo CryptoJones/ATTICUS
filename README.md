@@ -2,8 +2,10 @@
 
 **An Open-Source Model Trained for Public Defenders**
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Ronin48%2Fatticus-yellow)](https://huggingface.co/Ronin48/atticus)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg?logo=apache)](https://opensource.org/licenses/Apache-2.0)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Ronin48LLC%2Fatticus--lora--adapter-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/Ronin48LLC/atticus-lora-adapter)
+[![Codeberg](https://img.shields.io/badge/Codeberg-Ronin48%2FATTICUS-2185D0?logo=codeberg&logoColor=white)](https://codeberg.org/Ronin48/ATTICUS)
+[![GitHub](https://img.shields.io/badge/GitHub-CryptoJones%2FATTICUS-181717?logo=github&logoColor=white)](https://github.com/CryptoJones/ATTICUS)
 [![Version](https://img.shields.io/badge/version-v0.1.0--dev-orange)](CHANGELOG.md)
 
 > *"You never really understand a person until you consider things from his point of view...
