@@ -80,11 +80,11 @@ wait $TRAIN_PID
 
 echo "=== $REPO_NAME training complete $(date) ==="
 
-ADAPTER_DIR="$REPO_DIR/output/atticus-qlora/final"
+ADAPTER_DIR="$REPO_DIR/output/atticus-qlora"
 HF_REPO="Ronin48LLC/atticus-lora-adapter"
 if [ -d "$ADAPTER_DIR" ]; then
     echo "[upload] pushing adapter to $HF_REPO..."
-    huggingface-cli upload "$HF_REPO" "$ADAPTER_DIR" --token "$HF_TOKEN"
+    hf upload "$HF_REPO" "$ADAPTER_DIR" --token "$HF_TOKEN"
     echo "[upload] done: $HF_REPO"
 else
     echo "[upload] WARNING: adapter not found at $ADAPTER_DIR — upload manually"
