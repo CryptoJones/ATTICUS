@@ -11,7 +11,21 @@ it has the most complete record of the first training run.
 
 ## ATTICUS-Specific Notes
 
-*Nothing to record yet. If you hit an ATTICUS-specific error and fix it, add it here.*
+### Training Monitor Blind Spot — Read Before Launching
+
+The training monitor has a failure mode where it silently misses crashes that happen before
+the GPU ever activates (disk full, bad import, OOM during model load). It reports
+`GPU 0% | active=False` and assumes the pod is still initializing. This burned credits
+and wasted time across multiple training runs before it was fixed.
+
+The monitor now has pre-flight checks (volume size, HF cache mount, free space) and a
+stuck-pod alert (Telegram after 45 min with no GPU activity). But verify your volume size
+before launching — the pre-flight check is the first line of defense.
+
+See [ABBY Error #20](https://codeberg.org/Ronin48/ABBY/raw/branch/main/LESSONS_LEARNED.md)
+for the full incident writeup and fix details.
+
+**Rule: `GPU 0% | active=False` after 20+ minutes = crashed. SSH in and check `/workspace/logs/train.log`.**
 
 ---
 
