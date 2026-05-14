@@ -1,5 +1,8 @@
 # ATTICUS — Advocacy, Trial, Testimony, Innocence, Case, Unified Scout
 
+> **Before deploying in an operational context, read [LIMITATIONS.md](LIMITATIONS.md).**
+
+
 **An Open-Source Model Trained for Public Defenders**
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg?logo=apache)](https://opensource.org/licenses/Apache-2.0)
